@@ -3,7 +3,7 @@ title: Network_(1)
 date: 2022-11-28
 categories: [Network]
 tags: [network]
-pin: true
+#pin: true
 ---
 
 ## 네트워크 개요

@@ -3,7 +3,7 @@ title: Network_(2)
 date: 2022-11-30
 categories: [Network]
 tags: [network]
-pin: true
+#pin: true
 ---
 
 ## 네트워크 관련 장비/개념

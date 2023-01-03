@@ -1,17 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-
-title: About Me
-date: 2022-11-05 20:28:00 +0900
-categories: [About me]
-tags: [introduce]
-pin: true
----
-
-안녕하세요! DevOps/Cloud 엔지니어를 목표로 공부하고 있습니다  
-AWS, Docker, Kubernetes, CS 등 공부한 것을 기록할 예정입니다.
-
+order: 4
 ---
 
 ### Information

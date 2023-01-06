@@ -23,8 +23,6 @@ title: hallu0317 # the main title
 tagline: DevOps/Cloud Engineer 김지원 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  안녕하세요! DevOps/Cloud 엔지니어를 목표로 공부하고 있습니다   
-  AWS, Docker, Kubernetes, CS 등 공부한 것을 기록할 예정입니다.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://hallu0317.github.io"
 
@@ -116,7 +114,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 10
+paginate: 8
 
 # ------------ The following options are not recommended to be modified ------------------
 

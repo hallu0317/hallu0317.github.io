@@ -25,4 +25,4 @@ AWS, Docker, Kubernetes, CS 등 공부한 것을 기록할 예정입니다.
 - Email : hallu0317@gmail.com
 - Kakao : jiwon\_\_\_
 - Github : github.com/hallu0317
-- Instagram : https://www.instagram.com/kimjiwonn__/
+- Instagram : https://www.instagram.com/kimjiwonnn__/
